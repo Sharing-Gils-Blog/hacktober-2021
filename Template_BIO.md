@@ -19,6 +19,7 @@ Universitas Amikom Purwokerto
 ### Bahasa Pemograman 
 
 - Python
+- Javascript
 - HTML
 
 ### Project
